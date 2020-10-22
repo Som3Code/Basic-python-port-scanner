@@ -1,8 +1,8 @@
 # Basic-python-port-scanner
 
-#EASY TO RUN
+# HOW TO RUN?
 
-# python3 scanner.py / to open a scanner
+#python3 scanner.py
 
 #use , to scan multiple websites or ips
 
